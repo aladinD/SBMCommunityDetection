@@ -1,0 +1,9 @@
+img/
+data/
+.idea/
+
+*.pyc
+*.pdf
+*.svg
+*.png
+*.tex
